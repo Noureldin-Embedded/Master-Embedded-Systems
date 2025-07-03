@@ -35,8 +35,8 @@ void main()
 		printf("%c is a Vowel",let);
 		break;
 
-	case 'u':
 	case 'U':
+	case 'u':
 		printf("%c is a Vowel",let);
 		break;
 
